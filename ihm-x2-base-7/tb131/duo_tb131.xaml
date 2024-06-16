@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?neo version='2.22.184.0'?>
+<nacs:ScreenWindow Topmost="False" Title="duo_tb131" SizeToContent="WidthAndHeight" WindowStartupLocation="CenterScreen" WindowState="Normal" BorderStyle="SingleBorder" ScreenSize="800, 480" ScreenTitle="kit_didatico" ScreenID="100" StyleName="Default" IsCacheable="True" Width="800" Height="480" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:nacs="clr-namespace:Neo.ApplicationFramework.Controls.Screen;assembly=Controls" xmlns:nacs1="clr-namespace:Neo.ApplicationFramework.Controls.Symbol;assembly=Controls" xmlns:nai="clr-namespace:Neo.ApplicationFramework.Interfaces;assembly=Interfaces" xmlns:nata="clr-namespace:Neo.ApplicationFramework.Tools.Action;assembly=Tools" xmlns:nacc="clr-namespace:Neo.ApplicationFramework.Controls.Controls;assembly=Controls" xmlns:nac="clr-namespace:Neo.ApplicationFramework.Controls;assembly=Controls" x:Class="Neo.ApplicationFramework.Generated.duo_tb131">
+  <nacs:ElementCanvas Name="m_EditorCanvas" Width="800" Height="480" FocusVisualStyle="{x:Null}" AllowDrop="True" ClipToBounds="True" Focusable="True" TextOptions.TextFormattingMode="Display" TextOptions.TextRenderingMode="ClearType" Panel.ZIndex="104">
+    <nacs1:Picture SymbolName="trainingboxduo-tb131 (1)" Stretch="True" Name="m_Picture" Width="491" Height="349" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="2" Canvas.Left="306" Canvas.Top="30" />
+    <nacs1:Picture SymbolName="logo-ifsp" Stretch="True" Name="m_Picture1" Width="319" Height="114" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="3" Canvas.Left="-1" Canvas.Top="365">
+      <nai:ActionProperties.Actions>
+        <nai:ActionList>
+          <nata:Action Name="Show Screen">
+            <nata:Action.ActionMethodInfo>
+              <nata:ActionMethodInfo Name="Show" ObjectName="inicio" EventName="MouseEnter" ReferenceType="Global" ObjectParentName="" ObjectPathProvider="Neo.ApplicationFramework.Tools.Action.ScreenInstanceObjectPathProvider, ToolsIde, Version=2.22.184.0, Culture=neutral, PublicKeyToken=null" ObjectPath="Default" ExplicitAuditTrail="False">
+                <nata:ActionMethodInfo.ActionParameterInfo>
+                  <nai:ActionParameterInfoList>
+                    <nata:ActionParameterInfo Position="0" Value="{x:Null}" ParameterName="position" ParameterTypeString="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" TagName="" />
+                  </nai:ActionParameterInfoList>
+                </nata:ActionMethodInfo.ActionParameterInfo>
+              </nata:ActionMethodInfo>
+            </nata:Action.ActionMethodInfo>
+          </nata:Action>
+        </nai:ActionList>
+      </nai:ActionProperties.Actions>
+    </nacs1:Picture>
+    <nacc:Ellipse Fill="#FF1E477A" Stroke="#FF000000" Name="m_Ellipse2" Width="15" Height="15" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="6" Canvas.Left="335" Canvas.Top="179" />
+    <Line X1="336" Y1="186" X2="285" Y2="186.5" Stroke="#FF000000" StrokeThickness="5" Name="m_Line4" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="11" />
+    <Line X1="335.5" Y1="231.5" X2="284" Y2="232" Stroke="#FF000000" StrokeThickness="5" Name="m_Line1" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="4" />
+    <nacc:Ellipse Fill="#FF1E477A" Stroke="#FF000000" Name="m_Ellipse1" Width="15" Height="15" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="5" Canvas.Left="334" Canvas.Top="224" />
+    <nac:Group Name="m_Group" Width="256" Height="64.5016937255859" RenderTransformOrigin="0.5,0.5" Panel.ZIndex="12" Canvas.Left="33" Canvas.Top="124">
+      <nai:ActionProperties.Actions>
+        <nai:ActionList>
+          <nata:Action Name="Show Screen">
+            <nata:Action.ActionMethodInfo>
+              <nata:ActionMethodInfo Name="Show" ObjectName="digitais" EventName="MouseEnter" ReferenceType="Global" ObjectParentName="" ObjectPathProvider="Neo.ApplicationFramework.Tools.Action.ScreenInstanceObjectPathProvider, ToolsIde, Version=2.22.184.0, Culture=neutral, PublicKeyToken=null" ObjectPath="" ExplicitAuditTrail="False">
+                <nata:ActionMethodInfo.ActionParameterInfo>
+                  <nai:ActionParameterInfoList>
+                    <nata:ActionParameterInfo Position="0" Value="{x:Null}" ParameterName="position" ParameterTypeString="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" TagName="" />
+                  </nai:ActionParameterInfoList>
+                </nata:ActionMethodInfo.ActionParameterInfo>
+              </nata:ActionMethodInfo>
+            </nata:Action.ActionMethodInfo>
+          </nata:Action>
+        </nai:ActionList>
+      </nai:ActionProperties.Actions>
+      <nac:Label Text="Digitais" Background="#00FFFFFF" Foreground="#FFFFFFFF" FontFamily="Tahoma" FontSize="24" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" Padding="6,0,6,1" Name="m_Text2" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="9" Canvas.Left="68" Canvas.Top="15">
+        <nac:Label.TextDecorations>
+          <TextDecorationCollection />
+        </nac:Label.TextDecorations>
+        <nai:ActionProperties.Actions>
+          <nai:ActionList>
+            <nata:Action Name="Show Screen">
+              <nata:Action.ActionMethodInfo>
+                <nata:ActionMethodInfo Name="Show" ObjectName="digitais" EventName="MouseEnter" ReferenceType="Global" ObjectParentName="" ObjectPathProvider="Neo.ApplicationFramework.Tools.Action.ScreenInstanceObjectPathProvider, ToolsIde, Version=2.22.184.0, Culture=neutral, PublicKeyToken=null" ObjectPath="" ExplicitAuditTrail="False">
+                  <nata:ActionMethodInfo.ActionParameterInfo>
+                    <nai:ActionParameterInfoList>
+                      <nata:ActionParameterInfo Position="0" Value="{x:Null}" ParameterName="position" ParameterTypeString="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" TagName="" />
+                    </nai:ActionParameterInfoList>
+                  </nata:ActionMethodInfo.ActionParameterInfo>
+                </nata:ActionMethodInfo>
+              </nata:Action.ActionMethodInfo>
+            </nata:Action>
+          </nai:ActionList>
+        </nai:ActionProperties.Actions>
+      </nac:Label>
+      <Polyline Points="0,0 0.999999999999986,64.5016935518598 256,63.6181087086836 209.333333333333,0.441792421588131 0,0" Fill="#FF246374" Stroke="#FF000000" StrokeThickness="3" Name="m_PolyLine3" RenderTransform="{x:Null}" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="8" Canvas.Left="0" Canvas.Top="0">
+        <nai:ActionProperties.Actions>
+          <nai:ActionList>
+            <nata:Action Name="Show Screen">
+              <nata:Action.ActionMethodInfo>
+                <nata:ActionMethodInfo Name="Show" ObjectName="digitais" EventName="MouseEnter" ReferenceType="Global" ObjectParentName="" ObjectPathProvider="Neo.ApplicationFramework.Tools.Action.ScreenInstanceObjectPathProvider, ToolsIde, Version=2.22.184.0, Culture=neutral, PublicKeyToken=null" ObjectPath="" ExplicitAuditTrail="False">
+                  <nata:ActionMethodInfo.ActionParameterInfo>
+                    <nai:ActionParameterInfoList>
+                      <nata:ActionParameterInfo Position="0" Value="{x:Null}" ParameterName="position" ParameterTypeString="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" TagName="" />
+                    </nai:ActionParameterInfoList>
+                  </nata:ActionMethodInfo.ActionParameterInfo>
+                </nata:ActionMethodInfo>
+              </nata:Action.ActionMethodInfo>
+            </nata:Action>
+          </nai:ActionList>
+        </nai:ActionProperties.Actions>
+      </Polyline>
+    </nac:Group>
+    <nac:Group Name="m_Group1" Width="256" Height="63" RenderTransformOrigin="0.5,0.5" Panel.ZIndex="13" Canvas.Left="33" Canvas.Top="231">
+      <nai:ActionProperties.Actions>
+        <nai:ActionList>
+          <nata:Action Name="Show Screen">
+            <nata:Action.ActionMethodInfo>
+              <nata:ActionMethodInfo Name="Show" ObjectName="analogicas" EventName="MouseEnter" ReferenceType="Global" ObjectParentName="" ObjectPathProvider="Neo.ApplicationFramework.Tools.Action.ScreenInstanceObjectPathProvider, ToolsIde, Version=2.22.184.0, Culture=neutral, PublicKeyToken=null" ObjectPath="" ExplicitAuditTrail="False">
+                <nata:ActionMethodInfo.ActionParameterInfo>
+                  <nai:ActionParameterInfoList>
+                    <nata:ActionParameterInfo Position="0" Value="{x:Null}" ParameterName="position" ParameterTypeString="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" TagName="" />
+                  </nai:ActionParameterInfoList>
+                </nata:ActionMethodInfo.ActionParameterInfo>
+              </nata:ActionMethodInfo>
+            </nata:Action.ActionMethodInfo>
+          </nata:Action>
+        </nai:ActionList>
+      </nai:ActionProperties.Actions>
+      <Polyline Points="0,0 256,0 208,63 1,63 0,0" Fill="#FF246374" Stroke="#FF000000" StrokeThickness="3" Name="m_PolyLine" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="1" Canvas.Left="0" Canvas.Top="0" />
+      <nac:Label Text="Analógicas" Background="#00FFFFFF" Foreground="#FFFFFFFF" FontFamily="Tahoma" FontSize="24" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Padding="6,0,6,1" Name="m_Text1" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="10" Canvas.Left="46" Canvas.Top="14">
+        <nac:Label.TextDecorations>
+          <TextDecorationCollection />
+        </nac:Label.TextDecorations>
+      </nac:Label>
+    </nac:Group>
+  </nacs:ElementCanvas>
+</nacs:ScreenWindow>

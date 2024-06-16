@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<CrossReferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="2.22.184.0">
+  <Categories>
+    <Category Name="AlarmViewer">
+      <Items />
+    </Category>
+    <Category Name="Alias">
+      <Items />
+    </Category>
+    <Category Name="AliasInstanceDataItem">
+      <Items />
+    </Category>
+    <Category Name="DatabaseService">
+      <Items />
+    </Category>
+    <Category Name="DatabaseViewer">
+      <Items />
+    </Category>
+    <Category Name="DataLogger">
+      <Items />
+    </Category>
+    <Category Name="Expression">
+      <Items />
+    </Category>
+    <Category Name="Font">
+      <Items>
+        <Item Target="analogicas.Group.Text8" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="analogicas.CircularMeter" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="analogicas.Slider1" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="analogicas.Slider" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="analogicas.LinearMeter" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="analogicas.Text" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="analogicas.Text1" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="analogicas.AnalogNumeric" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="analogicas.Text3" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="analogicas.Text4" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="analogicas.Text6" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="analogicas.Text2" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="analogicas.Group1.Text5" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+      </Items>
+    </Category>
+    <Category Name="GlobalDataItem">
+      <Items>
+        <Item Target="analogicas.CircularMeter" TargetProperty="Value" Source="Tags.AV0" />
+        <Item xsi:type="ActionItem" Target="analogicas.Slider1" TargetProperty="Actions" Source="Tags.AO0" Event="ValueChanged" Action="Set Analog" Param="" />
+        <Item Target="analogicas.Slider1" TargetProperty="Value" Source="Tags.AO0" />
+        <Item xsi:type="ActionItem" Target="analogicas.Slider" TargetProperty="Actions" Source="Tags.AO1" Event="ValueChanged" Action="Set Analog" Param="" />
+        <Item Target="analogicas.Slider" TargetProperty="Value" Source="Tags.AO1" />
+        <Item Target="analogicas.LinearMeter" TargetProperty="Value" Source="Tags.AV1" />
+        <Item Target="analogicas.LinearMeter" TargetProperty="IndicatorColor" Source="Tags.AV1" />
+        <Item Target="analogicas.AnalogNumeric" TargetProperty="Value" Source="Tags.AV0" />
+      </Items>
+    </Category>
+    <Category Name="IntegratorSwapActiveProjectAction">
+      <Items />
+    </Category>
+    <Category Name="Object">
+      <Items />
+    </Category>
+    <Category Name="Recipe">
+      <Items />
+    </Category>
+    <Category Name="Renderable">
+      <Items>
+        <Item Target="analogicas.CircularMeter" Source="analogicas.m_CircularMeter.bmp" />
+        <Item Target="analogicas.Slider1" Source="analogicas.m_Slider1.bmp" />
+        <Item Target="analogicas.Slider" Source="analogicas.m_Slider.bmp" />
+        <Item Target="analogicas.LinearMeter" Source="analogicas.m_LinearMeter.bmp" />
+      </Items>
+    </Category>
+    <Category Name="Report">
+      <Items />
+    </Category>
+    <Category Name="Screen">
+      <Items>
+        <Item xsi:type="ActionItem" Target="analogicas.Group1" TargetProperty="Actions" Source="inicio" Event="MouseEnter" Action="Show Screen" Param="" />
+        <Item xsi:type="ScreenIDItem" ScreenID="120">
+          <ScreenName>analogicas</ScreenName>
+        </Item>
+        <Item xsi:type="ScreenObjectsCrossReferenceItem">
+          <ObjectsCount>19</ObjectsCount>
+          <ScreenName>analogicas</ScreenName>
+        </Item>
+      </Items>
+    </Category>
+    <Category Name="Script">
+      <Items />
+    </Category>
+    <Category Name="StructuredTag">
+      <Items>
+        <Item xsi:type="ActionItem" Target="analogicas.Slider1" TargetProperty="Actions" Source="Tags.AO0" Event="ValueChanged" Action="Set Analog" Param="" />
+        <Item xsi:type="ActionItem" Target="analogicas.Slider" TargetProperty="Actions" Source="Tags.AO1" Event="ValueChanged" Action="Set Analog" Param="" />
+      </Items>
+    </Category>
+    <Category Name="Symbol">
+      <Items />
+    </Category>
+    <Category Name="TextLibrary">
+      <Items />
+    </Category>
+    <Category Name="TrendViewer">
+      <Items />
+    </Category>
+    <Category Name="Uri">
+      <Items />
+    </Category>
+  </Categories>
+</CrossReferences>

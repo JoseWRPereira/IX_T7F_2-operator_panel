@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<CrossReferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="2.22.184.0">
+  <Categories>
+    <Category Name="Alias">
+      <Items />
+    </Category>
+    <Category Name="DatabaseService">
+      <Items />
+    </Category>
+    <Category Name="DataLogger">
+      <Items />
+    </Category>
+    <Category Name="Expression">
+      <Items />
+    </Category>
+    <Category Name="GlobalDataItem">
+      <Items>
+        <Item Target="Tags" TargetProperty="S0" Source="TB131_Modbus.DataItem1" />
+        <Item Target="Tags" TargetProperty="S1" Source="TB131_Modbus.DataItem2" />
+        <Item Target="Tags" TargetProperty="S2" Source="TB131_Modbus.DataItem3" />
+        <Item Target="Tags" TargetProperty="S3" Source="TB131_Modbus.DataItem4" />
+        <Item Target="Tags" TargetProperty="E0" Source="TB131_Modbus.DataItem9" />
+        <Item Target="Tags" TargetProperty="E1" Source="TB131_Modbus.DataItem10" />
+        <Item Target="Tags" TargetProperty="E2" Source="TB131_Modbus.DataItem11" />
+        <Item Target="Tags" TargetProperty="E3" Source="TB131_Modbus.DataItem12" />
+        <Item Target="Tags" TargetProperty="AV0" Source="TB131_Modbus.DataItem17" />
+        <Item Target="Tags" TargetProperty="AV1" Source="TB131_Modbus.DataItem18" />
+        <Item Target="Tags" TargetProperty="AO0" Source="TB131_Modbus.DataItem19" />
+        <Item Target="Tags" TargetProperty="AO1" Source="TB131_Modbus.DataItem20" />
+        <Item Target="Tags" TargetProperty="S4" Source="TB131_Modbus.DataItem5" />
+        <Item Target="Tags" TargetProperty="S5" Source="TB131_Modbus.DataItem6" />
+        <Item Target="Tags" TargetProperty="S6" Source="TB131_Modbus.DataItem7" />
+        <Item Target="Tags" TargetProperty="S7" Source="TB131_Modbus.DataItem8" />
+        <Item Target="Tags" TargetProperty="E4" Source="TB131_Modbus.DataItem13" />
+        <Item Target="Tags" TargetProperty="E5" Source="TB131_Modbus.DataItem14" />
+        <Item Target="Tags" TargetProperty="E6" Source="TB131_Modbus.DataItem15" />
+        <Item Target="Tags" TargetProperty="E7" Source="TB131_Modbus.DataItem16" />
+      </Items>
+    </Category>
+    <Category Name="IntegratorSwapActiveProjectAction">
+      <Items />
+    </Category>
+    <Category Name="Recipe">
+      <Items />
+    </Category>
+    <Category Name="Report">
+      <Items />
+    </Category>
+    <Category Name="Screen">
+      <Items />
+    </Category>
+    <Category Name="Script">
+      <Items />
+    </Category>
+    <Category Name="StructuredTag">
+      <Items />
+    </Category>
+  </Categories>
+</CrossReferences>

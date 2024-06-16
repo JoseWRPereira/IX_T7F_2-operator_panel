@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfScreenIDInformation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ScreenIDInformation>
+    <ScreenId>0</ScreenId>
+    <ScreenName>inicio</ScreenName>
+  </ScreenIDInformation>
+  <ScreenIDInformation>
+    <ScreenId>100</ScreenId>
+    <ScreenName>duo_tb131</ScreenName>
+  </ScreenIDInformation>
+  <ScreenIDInformation>
+    <ScreenId>110</ScreenId>
+    <ScreenName>digitais</ScreenName>
+  </ScreenIDInformation>
+  <ScreenIDInformation>
+    <ScreenId>120</ScreenId>
+    <ScreenName>analogicas</ScreenName>
+  </ScreenIDInformation>
+</ArrayOfScreenIDInformation>

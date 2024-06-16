@@ -1,0 +1,253 @@
+<?xml version="1.0"?>
+<CrossReferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="2.22.184.0">
+  <Categories>
+    <Category Name="AlarmViewer">
+      <Items />
+    </Category>
+    <Category Name="Alias">
+      <Items />
+    </Category>
+    <Category Name="AliasInstanceDataItem">
+      <Items />
+    </Category>
+    <Category Name="DatabaseService">
+      <Items />
+    </Category>
+    <Category Name="DatabaseViewer">
+      <Items />
+    </Category>
+    <Category Name="DataLogger">
+      <Items />
+    </Category>
+    <Category Name="Expression">
+      <Items />
+    </Category>
+    <Category Name="Font">
+      <Items>
+        <Item Target="digitais.Group1.Text9" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="digitais.Group7.Text" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="digitais.Group10.Text13" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="digitais.Group9.Text14" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="digitais.Group8.Text15" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="digitais.Group.Text8" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="digitais.Button2" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="digitais.Button3" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="digitais.Button4" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="digitais.Button5" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="digitais.Button14" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="digitais.Button15" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="digitais.Button16" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="digitais.Button17" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="digitais.Text1" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="digitais.Text2" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="digitais.Text3" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="digitais.Text4" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="digitais.Button" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="digitais.Button1" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="digitais.Button6" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="digitais.Button7" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="digitais.Button8" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="digitais.Button9" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="digitais.Button10" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="digitais.Button11" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="digitais.Group6.Text5" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+      </Items>
+    </Category>
+    <Category Name="GlobalDataItem">
+      <Items>
+        <Item Target="digitais.Group7.Text" TargetProperty="Foreground" Source="Tags.E0" />
+        <Item Target="digitais.Group7.Ellipse1" TargetProperty="Fill" Source="Tags.E0" />
+        <Item Target="digitais.Group10.Text13" TargetProperty="Foreground" Source="Tags.E3" />
+        <Item Target="digitais.Group10.Ellipse11" TargetProperty="Fill" Source="Tags.E3" />
+        <Item Target="digitais.Group9.Text14" TargetProperty="Foreground" Source="Tags.E2" />
+        <Item Target="digitais.Group9.Ellipse12" TargetProperty="Fill" Source="Tags.E2" />
+        <Item Target="digitais.Group8.Text15" TargetProperty="Foreground" Source="Tags.E1" />
+        <Item Target="digitais.Group8.Ellipse13" TargetProperty="Fill" Source="Tags.E1" />
+        <Item xsi:type="ActionItem" Target="digitais.Button2" TargetProperty="Actions" Source="Tags.S2" Event="Click" Action="Reset Tag" Param="" />
+        <Item Target="digitais.Button2" TargetProperty="Value" Source="Tags.S2" />
+        <Item Target="digitais.Button2" TargetProperty="Foreground" Source="Tags.S2" />
+        <Item Target="digitais.Button2" TargetProperty="BlinkProperties.VisibleDynamicsValue" Source="Tags.S2" />
+        <Item xsi:type="ActionItem" Target="digitais.Button3" TargetProperty="Actions" Source="Tags.S2" Event="Click" Action="Set Tag" Param="" />
+        <Item Target="digitais.Button3" TargetProperty="Value" Source="Tags.S2" />
+        <Item Target="digitais.Button3" TargetProperty="Foreground" Source="Tags.S2" />
+        <Item Target="digitais.Button3" TargetProperty="BlinkProperties.VisibleDynamicsValue" Source="Tags.S2" />
+        <Item xsi:type="ActionItem" Target="digitais.Button4" TargetProperty="Actions" Source="Tags.S3" Event="Click" Action="Reset Tag" Param="" />
+        <Item Target="digitais.Button4" TargetProperty="Value" Source="Tags.S3" />
+        <Item Target="digitais.Button4" TargetProperty="Foreground" Source="Tags.S3" />
+        <Item Target="digitais.Button4" TargetProperty="BlinkProperties.VisibleDynamicsValue" Source="Tags.S3" />
+        <Item xsi:type="ActionItem" Target="digitais.Button5" TargetProperty="Actions" Source="Tags.S3" Event="Click" Action="Set Tag" Param="" />
+        <Item Target="digitais.Button5" TargetProperty="Value" Source="Tags.S3" />
+        <Item Target="digitais.Button5" TargetProperty="Foreground" Source="Tags.S3" />
+        <Item Target="digitais.Button5" TargetProperty="BlinkProperties.VisibleDynamicsValue" Source="Tags.S3" />
+        <Item xsi:type="ActionItem" Target="digitais.Button14" TargetProperty="Actions" Source="Tags.S0" Event="Click" Action="Reset Tag" Param="" />
+        <Item Target="digitais.Button14" TargetProperty="Value" Source="Tags.S0" />
+        <Item Target="digitais.Button14" TargetProperty="Foreground" Source="Tags.S0" />
+        <Item Target="digitais.Button14" TargetProperty="BlinkProperties.VisibleDynamicsValue" Source="Tags.S0" />
+        <Item xsi:type="ActionItem" Target="digitais.Button15" TargetProperty="Actions" Source="Tags.S0" Event="Click" Action="Set Tag" Param="" />
+        <Item Target="digitais.Button15" TargetProperty="Value" Source="Tags.S0" />
+        <Item Target="digitais.Button15" TargetProperty="Foreground" Source="Tags.S0" />
+        <Item Target="digitais.Button15" TargetProperty="BlinkProperties.VisibleDynamicsValue" Source="Tags.S0" />
+        <Item xsi:type="ActionItem" Target="digitais.Button16" TargetProperty="Actions" Source="Tags.S1" Event="Click" Action="Reset Tag" Param="" />
+        <Item Target="digitais.Button16" TargetProperty="Value" Source="Tags.S1" />
+        <Item Target="digitais.Button16" TargetProperty="Foreground" Source="Tags.S1" />
+        <Item Target="digitais.Button16" TargetProperty="BlinkProperties.VisibleDynamicsValue" Source="Tags.S1" />
+        <Item xsi:type="ActionItem" Target="digitais.Button17" TargetProperty="Actions" Source="Tags.S1" Event="Click" Action="Set Tag" Param="" />
+        <Item Target="digitais.Button17" TargetProperty="Value" Source="Tags.S1" />
+        <Item Target="digitais.Button17" TargetProperty="Foreground" Source="Tags.S1" />
+        <Item Target="digitais.Button17" TargetProperty="BlinkProperties.VisibleDynamicsValue" Source="Tags.S1" />
+        <Item Target="digitais.Text1" TargetProperty="Foreground" Source="Tags.E4" />
+        <Item Target="digitais.Ellipse" TargetProperty="Fill" Source="Tags.E4" />
+        <Item Target="digitais.Text2" TargetProperty="Foreground" Source="Tags.E5" />
+        <Item Target="digitais.Ellipse2" TargetProperty="Fill" Source="Tags.E5" />
+        <Item Target="digitais.Text3" TargetProperty="Foreground" Source="Tags.E6" />
+        <Item Target="digitais.Ellipse3" TargetProperty="Fill" Source="Tags.E6" />
+        <Item Target="digitais.Text4" TargetProperty="Foreground" Source="Tags.E7" />
+        <Item Target="digitais.Ellipse4" TargetProperty="Fill" Source="Tags.E7" />
+        <Item xsi:type="ActionItem" Target="digitais.Button" TargetProperty="Actions" Source="Tags.S4" Event="Click" Action="Reset Tag" Param="" />
+        <Item Target="digitais.Button" TargetProperty="Value" Source="Tags.S4" />
+        <Item Target="digitais.Button" TargetProperty="Foreground" Source="Tags.S4" />
+        <Item Target="digitais.Button" TargetProperty="BlinkProperties.VisibleDynamicsValue" Source="Tags.S4" />
+        <Item xsi:type="ActionItem" Target="digitais.Button1" TargetProperty="Actions" Source="Tags.S5" Event="Click" Action="Reset Tag" Param="" />
+        <Item Target="digitais.Button1" TargetProperty="Value" Source="Tags.S5" />
+        <Item Target="digitais.Button1" TargetProperty="Foreground" Source="Tags.S5" />
+        <Item Target="digitais.Button1" TargetProperty="BlinkProperties.VisibleDynamicsValue" Source="Tags.S5" />
+        <Item xsi:type="ActionItem" Target="digitais.Button6" TargetProperty="Actions" Source="Tags.S6" Event="Click" Action="Reset Tag" Param="" />
+        <Item Target="digitais.Button6" TargetProperty="Value" Source="Tags.S6" />
+        <Item Target="digitais.Button6" TargetProperty="Foreground" Source="Tags.S6" />
+        <Item Target="digitais.Button6" TargetProperty="BlinkProperties.VisibleDynamicsValue" Source="Tags.S6" />
+        <Item xsi:type="ActionItem" Target="digitais.Button7" TargetProperty="Actions" Source="Tags.S7" Event="Click" Action="Reset Tag" Param="" />
+        <Item Target="digitais.Button7" TargetProperty="Value" Source="Tags.S7" />
+        <Item Target="digitais.Button7" TargetProperty="TextValue" Source="Tags.S7" />
+        <Item Target="digitais.Button7" TargetProperty="Foreground" Source="Tags.S7" />
+        <Item Target="digitais.Button7" TargetProperty="BlinkProperties.VisibleDynamicsValue" Source="Tags.S7" />
+        <Item xsi:type="ActionItem" Target="digitais.Button8" TargetProperty="Actions" Source="Tags.S6" Event="Click" Action="Set Tag" Param="" />
+        <Item Target="digitais.Button8" TargetProperty="Value" Source="Tags.S6" />
+        <Item Target="digitais.Button8" TargetProperty="Foreground" Source="Tags.S6" />
+        <Item Target="digitais.Button8" TargetProperty="BlinkProperties.VisibleDynamicsValue" Source="Tags.S6" />
+        <Item xsi:type="ActionItem" Target="digitais.Button9" TargetProperty="Actions" Source="Tags.S7" Event="Click" Action="Set Tag" Param="" />
+        <Item Target="digitais.Button9" TargetProperty="Value" Source="Tags.S7" />
+        <Item Target="digitais.Button9" TargetProperty="Foreground" Source="Tags.S7" />
+        <Item Target="digitais.Button9" TargetProperty="BlinkProperties.VisibleDynamicsValue" Source="Tags.S7" />
+        <Item xsi:type="ActionItem" Target="digitais.Button10" TargetProperty="Actions" Source="Tags.S4" Event="Click" Action="Set Tag" Param="" />
+        <Item Target="digitais.Button10" TargetProperty="Value" Source="Tags.S4" />
+        <Item Target="digitais.Button10" TargetProperty="Foreground" Source="Tags.S4" />
+        <Item Target="digitais.Button10" TargetProperty="BlinkProperties.VisibleDynamicsValue" Source="Tags.S4" />
+        <Item xsi:type="ActionItem" Target="digitais.Button11" TargetProperty="Actions" Source="Tags.S5" Event="Click" Action="Set Tag" Param="" />
+        <Item Target="digitais.Button11" TargetProperty="Value" Source="Tags.S5" />
+        <Item Target="digitais.Button11" TargetProperty="Foreground" Source="Tags.S5" />
+        <Item Target="digitais.Button11" TargetProperty="BlinkProperties.VisibleDynamicsValue" Source="Tags.S5" />
+      </Items>
+    </Category>
+    <Category Name="IntegratorSwapActiveProjectAction">
+      <Items />
+    </Category>
+    <Category Name="Object">
+      <Items />
+    </Category>
+    <Category Name="Recipe">
+      <Items />
+    </Category>
+    <Category Name="Renderable">
+      <Items>
+        <Item Target="digitais.Button2" Source="-1560010730_Normal.bmp" />
+        <Item Target="digitais.Button2" Source="-1560010730_Pressed.bmp" />
+        <Item Target="digitais.Button2" Source="-1560010730_Disabled.bmp" />
+        <Item Target="digitais.Button3" Source="2100450659_Normal.bmp" />
+        <Item Target="digitais.Button3" Source="2100450659_Pressed.bmp" />
+        <Item Target="digitais.Button3" Source="2100450659_Disabled.bmp" />
+        <Item Target="digitais.Button4" Source="-1560010730_Normal.bmp" />
+        <Item Target="digitais.Button4" Source="-1560010730_Pressed.bmp" />
+        <Item Target="digitais.Button4" Source="-1560010730_Disabled.bmp" />
+        <Item Target="digitais.Button5" Source="2100450659_Normal.bmp" />
+        <Item Target="digitais.Button5" Source="2100450659_Pressed.bmp" />
+        <Item Target="digitais.Button5" Source="2100450659_Disabled.bmp" />
+        <Item Target="digitais.Button14" Source="-1560010730_Normal.bmp" />
+        <Item Target="digitais.Button14" Source="-1560010730_Pressed.bmp" />
+        <Item Target="digitais.Button14" Source="-1560010730_Disabled.bmp" />
+        <Item Target="digitais.Button15" Source="2100450659_Normal.bmp" />
+        <Item Target="digitais.Button15" Source="2100450659_Pressed.bmp" />
+        <Item Target="digitais.Button15" Source="2100450659_Disabled.bmp" />
+        <Item Target="digitais.Button16" Source="-1560010730_Normal.bmp" />
+        <Item Target="digitais.Button16" Source="-1560010730_Pressed.bmp" />
+        <Item Target="digitais.Button16" Source="-1560010730_Disabled.bmp" />
+        <Item Target="digitais.Button17" Source="2100450659_Normal.bmp" />
+        <Item Target="digitais.Button17" Source="2100450659_Pressed.bmp" />
+        <Item Target="digitais.Button17" Source="2100450659_Disabled.bmp" />
+        <Item Target="digitais.Button" Source="-1560010730_Normal.bmp" />
+        <Item Target="digitais.Button" Source="-1560010730_Pressed.bmp" />
+        <Item Target="digitais.Button" Source="-1560010730_Disabled.bmp" />
+        <Item Target="digitais.Button1" Source="-1560010730_Normal.bmp" />
+        <Item Target="digitais.Button1" Source="-1560010730_Pressed.bmp" />
+        <Item Target="digitais.Button1" Source="-1560010730_Disabled.bmp" />
+        <Item Target="digitais.Button6" Source="-1560010730_Normal.bmp" />
+        <Item Target="digitais.Button6" Source="-1560010730_Pressed.bmp" />
+        <Item Target="digitais.Button6" Source="-1560010730_Disabled.bmp" />
+        <Item Target="digitais.Button7" Source="-1560010730_Normal.bmp" />
+        <Item Target="digitais.Button7" Source="-1560010730_Pressed.bmp" />
+        <Item Target="digitais.Button7" Source="-1560010730_Disabled.bmp" />
+        <Item Target="digitais.Button8" Source="2100450659_Normal.bmp" />
+        <Item Target="digitais.Button8" Source="2100450659_Pressed.bmp" />
+        <Item Target="digitais.Button8" Source="2100450659_Disabled.bmp" />
+        <Item Target="digitais.Button9" Source="2100450659_Normal.bmp" />
+        <Item Target="digitais.Button9" Source="2100450659_Pressed.bmp" />
+        <Item Target="digitais.Button9" Source="2100450659_Disabled.bmp" />
+        <Item Target="digitais.Button10" Source="2100450659_Normal.bmp" />
+        <Item Target="digitais.Button10" Source="2100450659_Pressed.bmp" />
+        <Item Target="digitais.Button10" Source="2100450659_Disabled.bmp" />
+        <Item Target="digitais.Button11" Source="2100450659_Normal.bmp" />
+        <Item Target="digitais.Button11" Source="2100450659_Pressed.bmp" />
+        <Item Target="digitais.Button11" Source="2100450659_Disabled.bmp" />
+      </Items>
+    </Category>
+    <Category Name="Report">
+      <Items />
+    </Category>
+    <Category Name="Screen">
+      <Items>
+        <Item xsi:type="ActionItem" Target="digitais.Group6" TargetProperty="Actions" Source="duo_tb131" Event="MouseEnter" Action="Show Screen" Param="" />
+        <Item xsi:type="ScreenIDItem" ScreenID="110">
+          <ScreenName>digitais</ScreenName>
+        </Item>
+        <Item xsi:type="ScreenObjectsCrossReferenceItem">
+          <ObjectsCount>40</ObjectsCount>
+          <ScreenName>digitais</ScreenName>
+        </Item>
+      </Items>
+    </Category>
+    <Category Name="Script">
+      <Items />
+    </Category>
+    <Category Name="StructuredTag">
+      <Items>
+        <Item xsi:type="ActionItem" Target="digitais.Button2" TargetProperty="Actions" Source="Tags.S2" Event="Click" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="digitais.Button3" TargetProperty="Actions" Source="Tags.S2" Event="Click" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="digitais.Button4" TargetProperty="Actions" Source="Tags.S3" Event="Click" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="digitais.Button5" TargetProperty="Actions" Source="Tags.S3" Event="Click" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="digitais.Button14" TargetProperty="Actions" Source="Tags.S0" Event="Click" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="digitais.Button15" TargetProperty="Actions" Source="Tags.S0" Event="Click" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="digitais.Button16" TargetProperty="Actions" Source="Tags.S1" Event="Click" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="digitais.Button17" TargetProperty="Actions" Source="Tags.S1" Event="Click" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="digitais.Button" TargetProperty="Actions" Source="Tags.S4" Event="Click" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="digitais.Button1" TargetProperty="Actions" Source="Tags.S5" Event="Click" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="digitais.Button6" TargetProperty="Actions" Source="Tags.S6" Event="Click" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="digitais.Button7" TargetProperty="Actions" Source="Tags.S7" Event="Click" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="digitais.Button8" TargetProperty="Actions" Source="Tags.S6" Event="Click" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="digitais.Button9" TargetProperty="Actions" Source="Tags.S7" Event="Click" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="digitais.Button10" TargetProperty="Actions" Source="Tags.S4" Event="Click" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="digitais.Button11" TargetProperty="Actions" Source="Tags.S5" Event="Click" Action="Set Tag" Param="" />
+      </Items>
+    </Category>
+    <Category Name="Symbol">
+      <Items />
+    </Category>
+    <Category Name="TextLibrary">
+      <Items />
+    </Category>
+    <Category Name="TrendViewer">
+      <Items />
+    </Category>
+    <Category Name="Uri">
+      <Items />
+    </Category>
+  </Categories>
+</CrossReferences>

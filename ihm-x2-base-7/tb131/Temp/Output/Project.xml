@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project SchemaVersion="2.22.184.0">
+  <Guid>72c15999-6570-495d-ae00-f01f41d2976d</Guid>
+  <ProjectFiles>
+    <ProjectFile Name="AlarmServer.neo" ModifiedDate="2024-01-18T11:26:45.6051674-03:00" Length="1056" />
+    <ProjectFile Name="MultipleLanguages.neo" ModifiedDate="2024-01-31T16:22:39.7917165-03:00" Length="21617" />
+    <ProjectFile Name="Expressions.neo" ModifiedDate="2024-01-18T11:26:45.7640608-03:00" Length="459" />
+    <ProjectFile Name="LicenseRootComponent.neo" ModifiedDate="2024-01-18T11:26:47.589333-03:00" Length="13047" />
+    <ProjectFile Name="Tags.neo" ModifiedDate="2024-01-31T16:22:39.8917164-03:00" Length="23477" />
+    <ProjectFile Name="ProjectConfiguration.neo" ModifiedDate="2024-01-18T11:26:45.8782608-03:00" Length="6390" />
+    <ProjectFile Name="Security.neo" ModifiedDate="2024-01-18T11:26:45.8936425-03:00" Length="451" />
+    <ProjectFile Name="Security.xml" ModifiedDate="2024-01-18T11:26:45.8986612-03:00" Length="694" />
+    <ProjectFile Name="SntpClientRootComponent.neo" ModifiedDate="2024-01-18T11:26:45.9126403-03:00" Length="470" />
+    <ProjectFile Name="ProjectImages.neo" ModifiedDate="2024-01-18T15:04:21.6179009-03:00" Length="456" />
+    <ProjectFile Name="Symbols\alarm (1).png" ModifiedDate="2016-09-16T01:38:10-03:00" Length="12464" />
+    <ProjectFile Name="Symbols\artboard 1 copy 2.png" ModifiedDate="2024-01-18T14:46:11.7134501-03:00" Length="6752" />
+    <ProjectFile Name="Symbols\close.png" ModifiedDate="2016-09-16T01:38:10-03:00" Length="7189" />
+    <ProjectFile Name="Symbols\edit user.png" ModifiedDate="2016-09-16T01:38:10-03:00" Length="5419" />
+    <ProjectFile Name="Symbols\help.png" ModifiedDate="2016-09-16T01:38:10-03:00" Length="7337" />
+    <ProjectFile Name="Symbols\logo-ifsp.png" ModifiedDate="2024-01-18T14:57:54.4474614-03:00" Length="6752" />
+    <ProjectFile Name="Symbols\trainingboxduo-tb131 (1).png" ModifiedDate="2024-01-18T14:50:36.5598391-03:00" Length="454710" />
+    <ProjectFile Name="Symbols\warning.gif" ModifiedDate="2016-09-16T01:38:10-03:00" Length="3391" />
+    <ProjectFile Name="Symbols\beijer-electronics1.lib" ModifiedDate="2016-09-16T01:38:10-03:00" Length="9452" />
+    <ProjectFile Name="inicio.neoxaml" ModifiedDate="2024-01-31T16:58:42.5836821-03:00" Length="798" />
+    <ProjectFile Name="inicio.xaml" ModifiedDate="2024-01-31T16:58:42.6005233-03:00" Length="3020" />
+    <ProjectFile Name="duo_tb131.neoxaml" ModifiedDate="2024-01-31T16:22:40.0317164-03:00" Length="801" />
+    <ProjectFile Name="duo_tb131.Script.cs" ModifiedDate="2024-01-31T16:22:40.0317164-03:00" Length="784" />
+    <ProjectFile Name="duo_tb131.xaml" ModifiedDate="2024-01-31T16:22:40.1317164-03:00" Length="10168" />
+    <ProjectFile Name="digitais.neoxaml" ModifiedDate="2024-01-31T16:46:55.3331509-03:00" Length="800" />
+    <ProjectFile Name="digitais.xaml" ModifiedDate="2024-01-31T16:46:55.6430303-03:00" Length="106278" />
+    <ProjectFile Name="analogicas.neoxaml" ModifiedDate="2024-01-31T16:22:43.3917158-03:00" Length="802" />
+    <ProjectFile Name="analogicas.Script.cs" ModifiedDate="2024-01-31T16:22:43.4017158-03:00" Length="785" />
+    <ProjectFile Name="analogicas.xaml" ModifiedDate="2024-01-31T16:22:43.6317158-03:00" Length="19614" />
+    <ProjectFile Name="Printer1.xml" ModifiedDate="2024-01-18T11:26:46.2467326-03:00" Length="850" />
+    <ProjectFile Name="TB131_Modbus.neo" ModifiedDate="2024-01-31T16:22:44.8717155-03:00" Length="6094" />
+  </ProjectFiles>
+</Project>
